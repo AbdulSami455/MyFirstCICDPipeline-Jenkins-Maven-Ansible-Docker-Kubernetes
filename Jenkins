@@ -14,5 +14,7 @@ $ sudo yum install jenkins -y
 $ sudo systemctl enable jenkins       //Enable the Jenkins service to start at boot
 $ sudo systemctl start jenkins        //Start Jenkins as a service
 $ java -version
-$ javac -version
 $ systemctl status jenkins
+
+
+
