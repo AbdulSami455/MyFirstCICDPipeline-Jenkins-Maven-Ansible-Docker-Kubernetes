@@ -16,5 +16,8 @@ $ sudo systemctl start jenkins        //Start Jenkins as a service
 $ java -version
 $ systemctl status jenkins
 
+--Install Maven PLugin and Give Maven Path 
+--Install and Enable Github Plugin
+
 
 
