@@ -1,1 +1,7 @@
-
+Download Maven from the Apache Maven Website 
+1. Download tar File from Apache.org 
+2. tar the Maven File
+3. Go to Bash_profile File and Add Root Path
+4. Find the Directory of Java
+5. Add Lines with Filepath of Java Directory.
+6. 
